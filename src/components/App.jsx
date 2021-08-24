@@ -18,7 +18,7 @@ const App = () => {
       <h1>
         Bienvenido a React
       </h1>
-      <p>Para copia de archivos, me imagino video</p>
+      <p>Para copia</p>
       <p> copy-webpack-plugin -D</p>
       <p>{CopyPlugin}</p>
       <div className='Link'>
